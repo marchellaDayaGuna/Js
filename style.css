@@ -1,0 +1,22 @@
+body{
+    background-color: #FFDEDE;
+    font: 16/30px arial, sans-serif;
+    color: #213555;
+}
+.container{
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid white;
+}
+#username{
+    margin-left: 60px;
+}
+.container label{
+    padding: 10px;
+}
+.container button{
+    display: block;
+    margin: 10px auto;
+}
